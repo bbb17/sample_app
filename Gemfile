@@ -23,6 +23,8 @@ gem 'jquery-rails'
 
 group :test do
 	gem 'capybara'
+	gem 'factory_girl_rails', '4.1.0'
+
 end
 
 group :production do
